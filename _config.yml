@@ -1,7 +1,7 @@
 title: Muhaza Liebenlito
 logo: /assets/img/logo.png
 description: Ini adalah halaman pribadi.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
