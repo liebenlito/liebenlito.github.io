@@ -10,3 +10,4 @@ layout: default
 * [Algoritma dan Struktur Data](#perkuliahan)
 
 # Artikel
+* [Pengenalan Active Learning](articles/intro-active-learning.md)
