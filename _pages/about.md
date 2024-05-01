@@ -2,17 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://math.uinjakarta.id'>Department of Mathematics, UIN Syarif Hidayatullah Jakarta</a>. <em>If you can't stand the fatigue of study, you will feel the poignant of stupidity. (Imam Syafi'i) </em>.
+subtitle: <a href='https://math.uinjakarta.id'>Department of Mathematics, UIN Syarif Hidayatullah Jakarta</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Gedung Fakultas Sains dan Teknologi</p>
-    <p>Ir. H. Juanda No. 95</p>
-    <p>Tangerang Selatan, Banten 12345</p>
-
+    <em>If you can't stand the fatigue of study, you will feel the poignant of stupidity. (Imam Syafi'i) </em>.
+    
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
