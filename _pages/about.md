@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='math.uinjakarta.id'>Department of Mathematics, UIN Syarif Hidayatullah Jakarta</a>. If you can't stand the fatigue of study, you will feel the poignant of stupidity. (Imam Syafi'i).
+subtitle: <a href='https://math.uinjakarta.id'>Department of Mathematics, UIN Syarif Hidayatullah Jakarta</a>. <em>If you can't stand the fatigue of study, you will feel the poignant of stupidity. (Imam Syafi'i) </em>.
 
 profile:
   align: right
