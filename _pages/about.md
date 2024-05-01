@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='math.uinjakarta.id'>Department of Mathematics, UIN Syarif Hidayatullah Jakarta</a>. If you can't stand the fatigue of study, you will feel the poignant of stupidity. (Imam Syafi'i).
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Gedung Fakultas Sains dan Teknologi</p>
+    <p>Ir. H. Juanda No. 95</p>
+    <p>Tangerang Selatan, Banten 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
