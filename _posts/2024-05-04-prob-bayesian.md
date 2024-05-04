@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Probability in Bayesian Perspectives
-date: 2024-05-04 10:01:00
+date: 2024-05-04
 description: This article discusses about a fudamental theory of probability in the Bayesian paradigms.
 tags: formatting math
 categories: sample-posts
