@@ -50,6 +50,7 @@ Consider a probability law, and let $E$, $F$, and $G$ be events.
 ### Discrete Random Variables
 * Discrete random variable $X$ can take on any value from a finite or countably infinite set $\mathcal{X}$.
 * Denote the probability of the event that $X = x$ by $P(X=x)$, or just $P(x)$. Here $P(.)$ is called a probability mass function or pmf. It satifies the properties
+
 \begin{equation}
 \label{eq:prop-pmf}
 0 \leq P(x) \leq 1, \sum_{x \in \mathcal{X}} P(x) = 1
