@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Muhaza Liebenlito",
+    "label": "Lecturer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "muhazaliebenlito@gmail.com",
+    "phone": "(021) 749-3606",
+    "url": "https://liebenlito.github.io/",
+    "summary": "",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -16,63 +16,58 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Department of Mathematics, UIN Syarif Hidayatullah Jakarta",
+      "position": "Staff",
+      "url": "https://math.uinjakarta.id/muhaza-liebenlito/",
+      "startDate": "2016-09-01",
+      "endDate": "",
+      "summary": "Teaching various courses in Department of Mathematics and member of Data Science Research Group.",
+      "highlights": ["Computer Vision", "Numerical Methods", "Optimization Methods", "Algorithms and Data Structures"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "Bandung Institute of Technology (ITB), Indonesia",
+      "location": "Bandung, Indonesia",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "area": "Computational Science",
+      "studyType": "Master",
+      "startDate": "2012-08-01",
+      "endDate": "2014-06-07",
+      "score": "",
+      "courses": ["Advanced Numerical Analysis", "Numerical Optimization", "Computational Physical Systems"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Best graduation student in Department of Mathematics, Faculty of Science and Technology",
+      "date": "2011-01-21",
+      "awarder": "UIN Syarif Hidayatullah",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Master degree scholarship from DIKTI",
+      "date": "2012-07-06",
+      "awarder": "Ministry of Education, Indonesia",
+      "url": "",
+      "summary": ""
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
+      "name": "Participant in Workshop on Proposal Development and Research Paper Authorship",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "issuer": "US Embassy in Indonesia",
+      "url": "",
       "icon": "fa-solid fa-location-dot"
     },
     {
@@ -151,7 +146,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Indonesian",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -159,19 +154,21 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Basic",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Artificial Intelligence",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Computational Science",
+        "Machine Learning",
+        "Deep Learning"
       ]
     }
   ],
