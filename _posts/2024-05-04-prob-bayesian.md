@@ -6,7 +6,7 @@ description: This article discusses about a fudamental theory of probability in 
 tags: bayesian
 categories: probability
 related_posts: true
-featured: true
+featured: false
 toc:
   - name: Frequentist vs Bayesian
     # if a section has subsections, you can add them as follows:
