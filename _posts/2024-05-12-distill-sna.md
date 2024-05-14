@@ -37,30 +37,30 @@ toc:
     #   - name: Example Child Subsection 2
   - name: Definition of Social Network Analysis (SNA)
   - name: Fundamental Concepts
-  subsections:
-    - name: Nodes and Edges
-    - name: Network Types
-    - name: Network Properties
-    - name: Dyadic and Triadic Relationship
-    - name: Homophily and Heterophily
-    - name: Network Topologies
+    subsections:
+      - name: Nodes and Edges
+      - name: Network Types
+      - name: Network Properties
+      - name: Dyadic and Triadic Relationship
+      - name: Homophily and Heterophily
+      - name: Network Topologies
   - name: Theoretical Background
-  subsections:
-    - name: Strength of Weak Ties
-    - name: Structural Hole
-    - name: Small World Network
-    - name: Scale-Free Network Model
+    subsections:
+      - name: Strength of Weak Ties
+      - name: Structural Hole
+      - name: Small World Network
+      - name: Scale-Free Network Model
   - name: Data Collection and Preparation
-  subsections:
-    - name: Primary Methods for Collecting SNA Data
-    - name: Secondary Sources of SNA Data
-    - name: Ethical Considerations in Data Collection
-    - name: Preparing Data for Analysis
+    subsections:
+      - name: Primary Methods for Collecting SNA Data
+      - name: Secondary Sources of SNA Data
+      - name: Ethical Considerations in Data Collection
+      - name: Preparing Data for Analysis
   - name: Network Analysis Methods and Techniques
-  subsections:
-    - name: Network Centrality
-    - name: Clusters and Equivalence
-    - name: Visualizing Networks
+    subsections:
+      - name: Network Centrality
+      - name: Clusters and Equivalence
+      - name: Visualizing Networks
   - name: Software and Tools for SNA
   - name: SNA Case Study
   - name: Challenges and Future Directions in Network Analysis
