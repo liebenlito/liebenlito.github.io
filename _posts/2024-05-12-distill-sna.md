@@ -100,107 +100,65 @@ SNA is a powerful tool. It allows us to explore the underlying structure of an o
 ## Fundamental Concepts
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
 
----
-
 ### Nodes and Edges
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
-
----
 
 ### Network Types
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
 
----
-
 ### Network Properties
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
-
----
 
 ### Dyadic and Triadic Relationship
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
 
----
-
 ### Homophily and Heterophily
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
-
----
 
 ### Network Topologies
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
 
----
-
 ## Theoretical Background
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
-
----
 
 ### Strength of Weak Ties Theory
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
 
----
-
 ### Structural Hole Theory
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
-
----
 
 ### Small World Network Theory
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
 
----
-
 ### Scale-Free Network Model
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
-
----
 
 ## Data Collection and Preparation
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
 
----
-
 ### Primary Methods for Collecting SNA Data
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
-
----
 
 ### Secondary Sources of SNA Data
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
 
----
-
 ### Ethical Considerations in Data Collection
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
-
----
 
 ### Preparing Data for Analysis
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
 
----
-
 ## Network Analysis Methods and Techniques
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
-
----
 
 ### Network Centrality
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
 
----
-
 ### Clusters and Equivalence
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
 
----
-
 ### Visualizing Networks
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
-
----
 
 ## Software and Tools for SNA
 SNA is a powerful tool. It allows us to explore the underlying structure of an organization or network, identifying the formal and informal relationships that drive the formal processes and outcomes. This insight can enable better communication, facilitate change management, and inspire more efficient collaboration.
