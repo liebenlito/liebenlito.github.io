@@ -8,8 +8,10 @@ category: wajib
 related_publications: true
 ---
 
-Julia: https://liebenlito.github.io/num-comp-julia/README.html
-Python: https://liebenlito.github.io/Metode-Numerik/README.html
+**Julia**: ![](https://liebenlito.github.io/num-comp-julia/README.html).
+
+**Python**: ![](https://liebenlito.github.io/Metode-Numerik/README.html).
+
     ---
     layout: page
     title: project
